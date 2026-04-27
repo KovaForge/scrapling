@@ -1,11 +1,11 @@
 # Scrapling — Web Scraping Tool
 
 ## Location
-`/home/majk/.openclaw/workspace/tools/Scrapling/`
+`/Users/mike/.openclaw/workspace/tools/Scrapling/`
 
 ## Installation
 ```bash
-pip install -e /home/majk/.openclaw/workspace/tools/Scrapling/ --break-system-packages
+pip install -e /Users/mike/.openclaw/workspace/tools/Scrapling/ --break-system-packages
 pip install curl-cffi playwright browserforge msgspec --break-system-packages
 python3 -m playwright install chromium
 ```
